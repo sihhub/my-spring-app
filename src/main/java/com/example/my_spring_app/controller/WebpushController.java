@@ -12,7 +12,7 @@ import java.util.List;
 
 
 @RestController
-@RequestMapping("/web-push")  // 기본 경로를 /web-push로 설정
+@RequestMapping("/api/letrworks/web-push")  // 기본 경로를 /web-push로 설정
 public class WebpushController {
 //    @Autowired
 //    private SubscriptionRepository subscriptionRepository;
